@@ -1,3 +1,5 @@
+mod utils;
+
 use raw_window_handle::RawDisplayHandle;
 use raw_window_handle::RawWindowHandle;
 use raw_window_handle::WebCanvasWindowHandle;
